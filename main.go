@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/louislaugier/test-4A/content"
+	"github.com/louislaugier/4A-test-go/content"
 )
 
 type platformFeed struct {
